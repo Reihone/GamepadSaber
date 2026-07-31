@@ -6,6 +6,6 @@
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="HarmonyLib" Version="2.2.2" />
+<PackageReference Include="0Harmony" Version="2.2.2" />
   </ItemGroup>
 </Project>
