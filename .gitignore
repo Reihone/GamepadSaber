@@ -1,0 +1,21 @@
+# VisualStudio
+.vscode/
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Build outputs
+*.dll
+*.pdb
+*.exe
+
+# NuGet
+packages/
+*.nupkg
